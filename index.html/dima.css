@@ -1,0 +1,228 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #f4f1e8;
+  align-items: center;
+  color: #333;
+  }
+  
+  
+  #cart{
+  background-color: rgb(21, 107, 219);
+  color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 15px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  text-align: center;
+  
+  }
+  #winter{
+    background-color:  #1a1509;;
+  color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+
+  }
+  #sommer{
+   background-color:  #38a852;;
+  color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+ 
+  }
+  #aliud{
+   background-color: grey;
+  color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+ 
+  }
+  #iron-well{
+   background-color: rgb(175, 30, 30);
+  color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+ 
+  }
+  #shopping-img{
+
+   color: #f4f1e8;
+  font-size: 1.5rem;
+  margin: 0px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: stretch;
+  outline: #333;
+  
+  }
+  #impressum{
+    background-color: antiquewhite;
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+    color: #000;
+    border-radius: 10px;
+    cursor: pointer;
+
+  }
+
+  #conti{
+   background-color: rgb(217, 236, 241);
+    font-size: 1rem;
+    border: none;
+    margin:0px;
+    color: #000;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+  #alu1{
+   background-color: rgb(217, 236, 241);
+    font-size: 1rem;
+    border: none;
+    margin:0px;
+    color: #000;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+
+  #michelin{
+   background-color: rgb(217, 236, 241);
+    font-size: 1rem;
+    border: none;
+    margin:8px;
+    color: #000;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+
+  #alu2{
+   background-color: rgb(13, 15, 15);
+    font-size: 1rem;
+    border: none;
+    margin:8px;
+    color: #f4f1e8;
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+
+  #alu3{
+   background-color: rgb(33, 37, 37);
+    font-size: 1rem;
+    border: none;
+    margin:8px;
+    color: #f4f1e8;
+    border-radius: 5px;
+    cursor: pointer; 
+    display: block;
+    
+  }
+  #alu4{
+   background-color: rgb(131, 148, 165);
+    font-size: 1rem;
+    border: none;
+    margin:0px;
+    color: #f4f1e8;
+    border-radius: 5px;
+    cursor: pointer; 
+    margin: 8px;
+  }
+
+  #tyre1{
+   background-color: rgb(131, 148, 165);
+    font-size: 1rem;
+    border: none;
+    margin:8px;
+    color: #f4f1e8;
+    border-radius: 5px;
+    cursor: pointer; 
+
+  }
+  #impressum:hover{
+    opacity:1.4;
+    background-color: #38a852;
+    border-radius: 15px;
+  }
+  #subscribe{
+   background-color: rgb(29, 184, 231);
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+    color: #000;
+    border-radius: 10px;
+    cursor: pointer; 
+  }
+  #subscribe:hover{
+    opacity:1.4;
+    color: #090c0a;
+    background-color: gray;
+    border-radius: 15px;}
+    #e-mail{
+   background-color: rgb(213, 219, 188);
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+    color: #000;
+    border-radius: 10px;
+    cursor: pointer; 
+     text-emphasis: triangle blue;
+  }
+  #e-mail:hover{
+    opacity:1.4;
+    color: #090c0a;
+    background-color: rgb(252, 21, 21);
+    border-radius: 15px;}
+    #facebook{
+   background-color: rgb(29, 66, 231);
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+    color: #f4f1e8;
+    border-radius: 10px;
+    cursor: pointer; 
+  }
+  #kontakt{
+   background-color: rgb(238, 242, 243);
+    font-size: 2rem;
+    border: none;
+    margin: 10px;
+    color: #000;
+    border-radius: 10px;
+    cursor: pointer; 
+  }
+
+  #kontakt:hover{
+    opacity:1.4;
+    color: #f4f1e8;
+    background-color: rgb(56, 43, 43);
+    border-radius: 15px;}
